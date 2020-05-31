@@ -1,0 +1,110 @@
+body{
+
+  background-color: #eaebd8;
+}
+
+.firstSection{
+
+  background-image: url(https://cdn.pixabay.com/photo/2016/07/05/16/53/leaf-1498985_1280.jpg);
+  opacity: .8;
+  margin: -32px !important;
+  margin-top: -64px !important;
+  padding: 150px !important;
+  padding-top: 120px !important;
+  text-align: center;
+}
+
+.navBar{
+
+  background-color: inherit !important;
+  padding: 10rem !important;
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+  flex-wrap: nowrap;
+  display: flex;
+}
+
+.navBrand{
+
+  font-family: 'Italianno', cursive;
+  font-size: 40px;
+}
+
+.navContentList{
+
+  margin-right: -22px !important;
+}
+
+.navContentList li{
+
+  white-space: nowrap;
+  padding: 1.5rem;
+}
+
+.products{
+
+  background-color: #e6a400;
+  height: 140px !important;
+  width: 260px !important;
+  border: 0!important;
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.products:hover{
+
+  background-color: #91b029;
+}
+
+.products:focus{
+
+  background: #91b029;
+}
+
+.icons{
+
+  text-align: left;
+  font-size: 4em;
+  display: block !important;
+  color: #ffffea;
+  margin: auto;
+  vertical-align: middle;
+  margin-left: 16px;
+}
+
+.iconText{
+
+  text-align: right;
+  white-space: pre-wrap;
+  margin-right: 16px;
+  margin-top: 18px;
+  vertical-align: middle;
+}
+
+.slog{
+
+  font-size: 4rem !important;
+  font-weight: bolder !important;
+}
+
+.topic{
+
+    font-family: 'Italianno', cursive;
+    font-size: 40px !important;
+    display: flex;
+    margin-top: 50px;
+}
+
+.content{
+
+  text-align: justify;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.productSection{
+
+  text-align: left;
+  font-size: 20px !important;
+}
